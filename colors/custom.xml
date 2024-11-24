@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSCOLORS>
+
+  <COLOR NAME="amber120" SPACE="RGB" R="253" G="238" B="155"/>
+  <COLOR NAME="amber150" SPACE="RGB" R="253" G="232" B="114"/>
+  <COLOR NAME="amber250" SPACE="RGB" R="251" G="221" B="106"/>
+  <COLOR NAME="lime550" SPACE="RGB" R="107" G="170" B="14"/>
+  <COLOR NAME="orange120" SPACE="RGB" R="255" G="233" B="204"/>
+  <COLOR NAME="orange150" SPACE="RGB" R="255" G="224" B="184"/>
+  <COLOR NAME="orange180" SPACE="RGB" R="255" G="225" B="190"/>
+  <COLOR NAME="orange220" SPACE="RGB" R="255" G="206" B="149"/>
+  <COLOR NAME="orange320" SPACE="RGB" R="252" G="177" B="116"/>
+  <COLOR NAME="orange330" SPACE="RGB" R="252" G="171" B="105"/>
+  <COLOR NAME="orange350" SPACE="RGB" R="251" G="160" B="86"/>
+  <COLOR NAME="orange480" SPACE="RGB" R="249" G="136" B="57"/>
+  <COLOR NAME="orange650" SPACE="RGB" R="207" G="70" B="13"/>
+  <COLOR NAME="orange750" SPACE="RGB" R="181" G="60" B="13"/>
+  <COLOR NAME="orange920" SPACE="RGB" R="92" G="33" B="10"/>
+  <COLOR NAME="red250" SPACE="RGB" R="252" G="187" B="187"/>
+  <COLOR NAME="slovenia_green" SPACE="RGB" R="151" G="190" B="13"/>
+  <COLOR NAME="yellow380" SPACE="RGB" R="250" G="213" B="66"/>
+
+  </SCRIBUSCOLORS>

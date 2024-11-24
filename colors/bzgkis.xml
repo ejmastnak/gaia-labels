@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSCOLORS>
+  <COLOR NAME="yellow50" SPACE="RGB" R="254" G="252" B="232"/>
+  <COLOR NAME="yellow100" SPACE="RGB" R="254" G="249" B="195"/>
+  <COLOR NAME="yellow200" SPACE="RGB" R="254" G="240" B="138"/>
+  <COLOR NAME="yellow300" SPACE="RGB" R="253" G="224" B="71"/>
+  <COLOR NAME="yellow400" SPACE="RGB" R="250" G="204" B="21"/>
+  <COLOR NAME="yellow500" SPACE="RGB" R="234" G="179" B="8"/>
+  <COLOR NAME="yellow600" SPACE="RGB" R="202" G="138" B="4"/>
+  <COLOR NAME="yellow700" SPACE="RGB" R="161" G="98" B="7"/>
+  <COLOR NAME="yellow800" SPACE="RGB" R="133" G="77" B="14"/>
+  <COLOR NAME="yellow900" SPACE="RGB" R="113" G="63" B="18"/>
+  <COLOR NAME="yellow950" SPACE="RGB" R="66" G="32" B="6"/>
+
+  <COLOR NAME="amber50" SPACE="RGB" R="255" G="251" B="235"/>
+  <COLOR NAME="amber100" SPACE="RGB" R="254" G="243" B="199"/>
+  <COLOR NAME="amber200" SPACE="RGB" R="253" G="230" B="138"/>
+  <COLOR NAME="amber300" SPACE="RGB" R="252" G="211" B="77"/>
+  <COLOR NAME="amber400" SPACE="RGB" R="251" G="191" B="36"/>
+  <COLOR NAME="amber500" SPACE="RGB" R="245" G="158" B="11"/>
+  <COLOR NAME="amber600" SPACE="RGB" R="217" G="119" B="6"/>
+  <COLOR NAME="amber700" SPACE="RGB" R="180" G="83" B="9"/>
+  <COLOR NAME="amber800" SPACE="RGB" R="146" G="64" B="14"/>
+  <COLOR NAME="amber900" SPACE="RGB" R="120" G="53" B="15"/>
+  <COLOR NAME="amber950" SPACE="RGB" R="69" G="26" B="3"/>
+
+  <!-- Out-of-palette Tailwind colors -->
+  <COLOR NAME="green800" SPACE="RGB" R="22" G="101" B="52"/>
+  <COLOR NAME="green900" SPACE="RGB" R="20" G="83" B="45"/>
+  <COLOR NAME="green950" SPACE="RGB" R="5" G="46" B="22"/>
+  <COLOR NAME="lime500" SPACE="RGB" R="132" G="204" B="22"/>
+  <COLOR NAME="lime600" SPACE="RGB" R="101" G="163" B="13"/>
+  <COLOR NAME="lime900" SPACE="RGB" R="54" G="83" B="20"/>
+  <COLOR NAME="lime950" SPACE="RGB" R="26" G="46" B="5"/>
+  <COLOR NAME="orange50" SPACE="RGB" R="255" G="247" B="237"/>
+  <COLOR NAME="orange100" SPACE="RGB" R="255" G="237" B="213"/>
+  <COLOR NAME="orange200" SPACE="RGB" R="254" G="215" B="170"/>
+  <COLOR NAME="orange400" SPACE="RGB" R="251" G="146" B="60"/>
+  <COLOR NAME="orange700" SPACE="RGB" R="194" G="65" B="12"/>
+  <COLOR NAME="orange900" SPACE="RGB" R="124" G="45" B="18"/>
+  <COLOR NAME="orange950" SPACE="RGB" R="67" G="20" B="7"/>
+
+  <!-- Custom colors -->
+  <COLOR NAME="amber120" SPACE="RGB" R="253" G="238" B="155"/>
+  <COLOR NAME="amber150" SPACE="RGB" R="253" G="232" B="114"/>
+  <COLOR NAME="amber250" SPACE="RGB" R="251" G="221" B="106"/>
+  <COLOR NAME="lime550" SPACE="RGB" R="107" G="170" B="14"/>
+  <COLOR NAME="orange180" SPACE="RGB" R="255" G="225" B="190"/>
+  <COLOR NAME="orange650" SPACE="RGB" R="207" G="70" B="13"/>
+  <COLOR NAME="orange750" SPACE="RGB" R="181" G="60" B="13"/>
+  <COLOR NAME="orange920" SPACE="RGB" R="92" G="33" B="10"/>
+  <COLOR NAME="slovenia_green" SPACE="RGB" R="151" G="190" B="13"/>
+  <COLOR NAME="yellow380" SPACE="RGB" R="250" G="213" B="66"/>
+
+  <!-- Barcode colors -->
+  <COLOR NAME="yellow10_cmyk" SPACE="CMYK" C="0.1" M="0.5" Y="5.5" K="0"/>
+  <COLOR NAME="yellow990_cmyk" SPACE="CMYK" C="56.1" M="72.6" Y="74.1" K="83.1"/>
+
+  </SCRIBUSCOLORS>

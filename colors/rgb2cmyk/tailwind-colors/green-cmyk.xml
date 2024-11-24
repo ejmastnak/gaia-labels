@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSCOLORS>
+  <COLOR NAME="green50_cmyk" SPACE="CMYK" C="7.4" M="0.8" Y="8.6" K="0"/>
+  <COLOR NAME="green100_cmyk" SPACE="CMYK" C="15.1" M="0" Y="16.6" K="0"/>
+  <COLOR NAME="green200_cmyk" SPACE="CMYK" C="23.2" M="0" Y="27.7" K="0"/>
+  <COLOR NAME="green300_cmyk" SPACE="CMYK" C="38.1" M="0" Y="47.2" K="0"/>
+  <COLOR NAME="green400_cmyk" SPACE="CMYK" C="53.9" M="0" Y="62.6" K="0"/>
+  <COLOR NAME="green500_cmyk" SPACE="CMYK" C="64.5" M="0" Y="79" K="0"/>
+  <COLOR NAME="green600_cmyk" SPACE="CMYK" C="78.6" M="4.9" Y="89.7" K="0.4"/>
+  <COLOR NAME="green700_cmyk" SPACE="CMYK" C="82.2" M="18.9" Y="91.5" K="17.1"/>
+  <COLOR NAME="green800_cmyk" SPACE="CMYK" C="83.1" M="27" Y="88.4" K="33.7"/>
+  <COLOR NAME="green900_cmyk" SPACE="CMYK" C="83.3" M="31.8" Y="85.9" K="47.8"/>
+  <COLOR NAME="green950_cmyk" SPACE="CMYK" C="82.8290226596475" M="41.5228503852903" Y="81.0864423590448" K="74.0856031128405"/>
+  </SCRIBUSCOLORS>

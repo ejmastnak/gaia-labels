@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSCOLORS>
+    <COLOR NAME="orange50_cmyk" SPACE="CMYK" C="1.5" M="2.3" Y="9.2" K="0"/>
+    <COLOR NAME="orange100_cmyk" SPACE="CMYK" C="0" M="9.2" Y="21.1" K="0"/>
+    <COLOR NAME="orange200_cmyk" SPACE="CMYK" C="1.7" M="18.1" Y="38.1" K="0"/>
+    <COLOR NAME="orange300_cmyk" SPACE="CMYK" C="0.9" M="32.3" Y="60.5" K="0"/>
+    <COLOR NAME="orange400_cmyk" SPACE="CMYK" C="0.8" M="46.5" Y="83.3" K="0"/>
+    <COLOR NAME="orange500_cmyk" SPACE="CMYK" C="0.5" M="60.5" Y="93.7" K="0"/>
+    <COLOR NAME="orange600_cmyk" SPACE="CMYK" C="2.49485008010986" M="74.8332951857786" Y="96.0845349813077" K="0.132753490501259"/>
+    <COLOR NAME="orange700_cmyk" SPACE="CMYK" C="14.9126420996414" M="81.6495002670329" Y="97.2716868848707" K="9.46059357595178"/>
+    <COLOR NAME="orange800_cmyk" SPACE="CMYK" C="22.1" M="84.1" Y="94.6" K="27.3"/>
+    <COLOR NAME="orange900_cmyk" SPACE="CMYK" C="16.3" M="83.1" Y="89.8" K="45.7"/>
+    <COLOR NAME="orange950_cmyk" SPACE="CMYK" C="26.4" M="84.2" Y="77.9" K="72.1"/>
+</SCRIBUSCOLORS>

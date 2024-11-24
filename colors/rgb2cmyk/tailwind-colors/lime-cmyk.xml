@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSCOLORS>
+  <COLOR NAME="lime50_cmyk" SPACE="CMYK" C="5.1" M="0.4" Y="14.8" K="0"/>
+  <COLOR NAME="lime100_cmyk" SPACE="CMYK" C="10.3" M="0.1" Y="27.6" K="0"/>
+  <COLOR NAME="lime200_cmyk" SPACE="CMYK" C="15.2" M="0" Y="51" K="0"/>
+  <COLOR NAME="lime300_cmyk" SPACE="CMYK" C="26.9" M="0" Y="73.9" K="0"/>
+  <COLOR NAME="lime400_cmyk" SPACE="CMYK" C="37.9" M="0" Y="92.9" K="0"/>
+  <COLOR NAME="lime500_cmyk" SPACE="CMYK" C="51.9" M="0" Y="94.7" K="0"/>
+  <COLOR NAME="lime600_cmyk" SPACE="CMYK" C="63.2" M="10.3" Y="99.9" K="3.5"/>
+  <COLOR NAME="lime700_cmyk" SPACE="CMYK" C="66.7" M="22.9" Y="99.5" K="22.4"/>
+  <COLOR NAME="lime800_cmyk" SPACE="CMYK" C="68.5526817730983" M="30.8232242313268" Y="97.5371938658732" K="39.3438620584421"/>
+  <COLOR NAME="lime900_cmyk" SPACE="CMYK" C="69.6" M="33.4" Y="95.5" K="50.2"/>
+  <COLOR NAME="lime950_cmyk" SPACE="CMYK" C="71.8135347524224" M="43.5736629282063" Y="86.9108110170138" K="73.8078889143206"/>
+  </SCRIBUSCOLORS>

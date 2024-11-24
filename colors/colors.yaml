@@ -1,0 +1,158 @@
+slovenia_green: "#97be0d"  # (151, 190, 13)
+
+logo:
+  frame_fill: "orange50"
+  frame_stroke: "orange700"
+  flower_fill: "yellow300"
+  flower_stroke: "orange400"
+  text: "orange900"
+
+barcodes:
+  amber10_rgb: "#fffdf5"  # (255, 253, 245)
+  amber990_rgb: "#270e02"  # (39, 14, 2)
+  yellow10_rgb: "#fefef6"  # (254, 254, 246)
+  yellow990_rgb: "#271102"  # (39, 17, 2)
+  rose10_rgb: "#fffafa"  # (255, 250, 250)
+  rose990_rgb: "#26030b"  # (38, 3, 11)
+
+sntolj:
+  palettes: ["red", "rose"]
+  fg: "pink700"  # out of palette!
+  bg: "rose50"
+  text: "rose900"
+  title_text: "rose800"
+  custom:
+    red250: "#fcbbbb"  # (252, 187, 187)
+    slovenia_green: "#97be0d"  # (151, 190, 13)
+  partials:
+    sntflower: ["red250"]
+    logo: ["orange50", "orange400", "orange700", "orange900", "yellow300"]
+
+jabsok:
+  palettes: ["orange"]
+  fg: "orange400"
+  bg: "amber50"  # out-of-palette!
+  text: "orange900"
+  title_text: "orange800"
+  custom:
+    red250: "#fcbbbb"  # (252, 187, 187)
+    orange120: "ffe9cc"  # (255, 233, 204)
+    orange150: "ffe0b8"  # (255, 224, 184)
+    orange180: "ffe1be"  # (255, 225, 190)
+    orange650: "cf460d"  # (207, 70, 13)
+    orange750: "b53c0d"  # (181, 60, 13)
+    orange920: "5c210a"  # (92, 33, 10)
+    lime550: "6baa0eff"  # (107, 170, 14)
+    slovenia_green: "#97be0d"  # (151, 190, 13)
+  partials:  # out-of-palette colors
+    apples2: ["orange180"]
+    apples3:
+      - "orange100"
+      - "orange180"
+      - "orange200"
+      - "orange650"
+      - "orange750"
+      - "orange920"
+      - "orange950"
+      - "lime600"    # leaves
+      - "lime500"    # leaves
+      - "lime550"    # leaves
+      - "lime900"    # leaves
+      - "lime950"    # leaves
+      - "green800"   # leaves (stem gradient)
+      - "green900"   # leaves (stem gradient)
+      - "green950"   # leaves (stem gradient)
+    apples-half: ["orange120", "orange150"]
+
+jabkis:
+  palette: "orange"
+  fg: "orange500"
+  bg: "amber50"  # out-of-palette!
+  text: "orange900"
+  title_text: "orange800"
+  custom:
+    orange180: "ffe1be"  # (255, 225, 190)
+    orange220: "ffce95"  # (255 206 149)
+    orange320: "fcb174"  # (252, 177, 116)
+    orange330: "fcab69"  # (252, 171, 105)
+    orange350: "fba056"  # (251, 160, 86)
+    orange480: "f98839"  # (249, 136, 57)
+    orange650: "cf460d"  # (207, 70, 13)
+    orange750: "b53c0d"  # (181, 60, 13)
+    orange920: "5c210a"  # (92, 33, 10)
+    lime550: "6baa0eff"  # (107, 170, 14)
+    slovenia_green: "#97be0d"  # (151, 190, 13)
+  partials:  # out-of-palette colors
+    apples2:
+      - "orange320"
+      - "orange350"
+    apples3:
+      - "orange100"
+      - "orange180"
+      - "orange200"
+      - "orange650"
+      - "orange750"
+      - "orange920"
+      - "orange950"
+      - "lime600"    # leaves
+      - "lime500"    # leaves
+      - "lime550"    # leaves
+      - "lime900"    # leaves
+      - "lime950"    # leaves
+      - "green800"   # leaves (stem gradient)
+      - "green900"   # leaves (stem gradient)
+      - "green950"   # leaves (stem gradient)
+    apples_half:
+      - "orange330"
+      - "orange350"
+    rings:
+      - "orange220"
+    blob:
+      - "orange480"
+
+bzgkis:
+  palette: ["yellow", "amber"]
+  fg: "yellow400"
+  bg: "yellow50"
+  text: "yellow900"
+  title_text: "yellow800"
+  custom:
+    amber120: "fdee9b"  # (253, 238, 155)
+    amber150: "fde872"  # (253, 232, 114)
+    amber250: "fbdd6a"  # (251, 221, 106)
+    yellow380: "fad542"  # (250, 213, 66)
+    orange180: "ffe1be"  # (255, 225, 190)
+    orange650: "cf460d"  # (207, 70, 13)
+    orange750: "b53c0d"  # (181, 60, 13)
+    orange920: "5c210a"  # (92, 33, 10)
+    lime550: "6baa0eff"  # (107, 170, 14)
+    slovenia_green: "#97be0d"  # (151, 190, 13)
+  partials:  # out-of-palette colors
+    apples2:
+      - "amber120"
+      - "amber150"
+      - "amber250"
+    apples3:
+      - "orange100"
+      - "orange180"
+      - "orange200"
+      - "orange650"
+      - "orange750"
+      - "orange920"
+      - "orange950"
+      - "lime500"    # leaves
+      - "lime550"    # leaves
+      - "lime600"    # leaves
+      - "lime900"    # leaves
+      - "lime950"    # leaves
+      - "green800"   # leaves (stem gradient)
+      - "green900"   # leaves (stem gradient)
+      - "green950"   # leaves (stem gradient)
+    apples_half:
+      - "amber120"
+      - "amber150"
+      - "amber150"
+    blob:
+      - "yellow380"
+
+

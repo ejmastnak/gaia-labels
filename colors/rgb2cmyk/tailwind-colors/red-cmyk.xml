@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSCOLORS>
+  <COLOR NAME="red50_cmyk" SPACE="CMYK" C="1.69222552834363" M="6.84519722285802" Y="4.67994201571679" K="0"/>
+  <COLOR NAME="red100_cmyk" SPACE="CMYK" C="1.6" M="13.9" Y="9.3" K="0"/>
+  <COLOR NAME="red200_cmyk" SPACE="CMYK" C="0.4" M="24.7" Y="15.8" K="0"/>
+  <COLOR NAME="red300_cmyk" SPACE="CMYK" C="0" M="43.6" Y="27.8" K="0"/>
+  <COLOR NAME="red400_cmyk" SPACE="CMYK" C="0" M="66.3" Y="50.2" K="0"/>
+  <COLOR NAME="red500_cmyk" SPACE="CMYK" C="0.192263675898375" M="83.1082627603571" Y="68.6427100022889" K="0"/>
+  <COLOR NAME="red600_cmyk" SPACE="CMYK" C="4.7" M="94.1" Y="86.1" K="0.7"/>
+  <COLOR NAME="red700_cmyk" SPACE="CMYK" C="14.7" M="96" Y="90.3" K="12.1"/>
+  <COLOR NAME="red800_cmyk" SPACE="CMYK" C="21.9" M="95.4" Y="87.2" K="27"/>
+  <COLOR NAME="red900_cmyk" SPACE="CMYK" C="26.6" M="93.1" Y="81.5" K="41.5"/>
+  <COLOR NAME="red950_cmyk" SPACE="CMYK" C="36.1" M="89.5" Y="72.7" K="70.7"/>
+  </SCRIBUSCOLORS>

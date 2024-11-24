@@ -1,0 +1,76 @@
+# The same 180ish x 70 mm label size works for JabSok330, JabSok750, and
+# JabKis500, so just use that for all three.
+# Width could be anywhere from 170 mm to 190 mm.
+
+# Linear dimensions in mm; fonts in pts
+sntolj100:
+  bottle_circumference: 140
+  bottle_h: 70
+  label:
+    w: 137  # 143
+    h: 67  # 73
+    col_w: 45  # 48
+  font:
+    base: 8
+    subtitle: 10
+    title: 15
+
+sntolj500:
+  bottle_circumference: 200
+  bottle_h: 150
+  label:
+    w: 180  # 186
+    h: 70  # 76
+    col_w: 60  # 63
+  font:
+    base: 9
+    subtitle: 12
+    title: 20
+  
+jabsok330:
+  bottle_circumference: 200
+  bottle_h: 70
+  label:
+    w: 180  # 186
+    h: 70  # 76
+    col_w: 60  # 63
+  font:
+    base: 9
+    subtitle: 12
+    title: 20
+
+jabsok750:
+  bottle_circumference: 240
+  bottle_h: 140
+  label:
+    w: 180  # 186
+    h: 70  # 76
+    col_w: 60  # 63
+  font:
+    base: 9
+    subtitle: 12
+    title: 20
+
+jabkis500:
+  bottle_circumference: 200
+  bottle_h: 150
+  label:
+    w: 180  # 186
+    h: 70  # 76
+    col_w: 60  # 63
+  font:
+    base: 9
+    subtitle: 12
+    title: 20
+
+bzgkis500:
+  bottle_circumference: 200
+  bottle_h: 150
+  label:
+    w: 180  # 186
+    h: 70  # 76
+    col_w: 60  # 63
+  font:
+    base: 9
+    subtitle: 12
+    title: 20
